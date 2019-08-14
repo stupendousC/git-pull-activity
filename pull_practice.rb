@@ -29,6 +29,7 @@ end
 
 def train_noise
   puts "choo choo"
+  puts "WHAT???!!!"
 end
 
 # Task 4: Merge Conflict
@@ -36,6 +37,5 @@ end
 # Git doesn't know what to do in this case, so you'll have to
 # merge the two versions by hand.
 def clock_noise
-  puts "tock"
-  puts "tick"
+  puts "Y'ALL!  Clock goes ding dong!"
 end
