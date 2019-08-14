@@ -29,7 +29,6 @@ end
 
 def train_noise
   puts "choo choo"
-  puts "WHAT???!!!"
 end
 
 # Task 4: Merge Conflict
@@ -38,4 +37,5 @@ end
 # merge the two versions by hand.
 def clock_noise
   puts "ding dong!"
+  puts "please work already!!!"
 end
