@@ -16,6 +16,8 @@ def truck_noise
   puts "honk"
 end
 
+# THIS IS A COMMENT
+
 # Taks 3: Merging Changes
 # One partner should uncomment one method, and the other
 # partner should uncomment the other. Git will merge the two
@@ -27,6 +29,7 @@ end
 
 def train_noise
   puts "choo choo"
+  puts "WHAT???!!!"
 end
 
 # Task 4: Merge Conflict
@@ -34,6 +37,5 @@ end
 # Git doesn't know what to do in this case, so you'll have to
 # merge the two versions by hand.
 def clock_noise
-  # puts "tock"
-  # puts "tick"
+#  nothing  
 end
