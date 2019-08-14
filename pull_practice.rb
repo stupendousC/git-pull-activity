@@ -36,4 +36,5 @@ end
 # merge the two versions by hand.
 def clock_noise
   puts "Y'ALL!  Clock goes ding dong!"
+  puts "I mean... ok???"
 end
