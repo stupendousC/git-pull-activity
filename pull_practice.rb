@@ -27,6 +27,7 @@ end
 
 def train_noise
   puts "choo choo"
+  puts "WHAT???!!!"
 end
 
 # Task 4: Merge Conflict
