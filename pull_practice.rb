@@ -16,6 +16,8 @@ def truck_noise
   puts "honk"
 end
 
+# THIS IS A COMMENT
+
 # Taks 3: Merging Changes
 # One partner should uncomment one method, and the other
 # partner should uncomment the other. Git will merge the two
